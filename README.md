@@ -16,6 +16,6 @@
 
 
 
-<img src="http://github-readme-stats.vercel.app/api?username=sanjayaravinth721&&show_icons=true&title_color=fffffa&icon_color=bb2acf&text_color=da7dc&bg_color=151515">
+<img src="http://github-readme-stats.vercel.app/api?username=sanjayaravinth721&&show_icons=true&title_color=ff00ff&icon_color=bb2acf&text_color=da7dc&bg_color=151515">
 
 
