@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Back end developer.**
 
-- 💬 Ask me about **Technical Stuffs.**
+- 💬 Ask me about any **Technical Stuffs.**
 
 - 📫You can reach me in LinkedIn - **https://www.linkedin.com/in/sanjay-aravinth-266.6411b5**
 
