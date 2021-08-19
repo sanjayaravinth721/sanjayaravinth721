@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm SanjayAravinth!:)</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+
 
 - 🔭 I’m a student of **Velammal College of Engineering and Technology(ECE) Final Year.**
 
