@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayaravinth721&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="http://github-readme-stats.vercel.app/api?username=sanjayaravinth721&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=ef629f">
+<img src="http://github-readme-stats.vercel.app/api?username=sanjayaravinth721&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1d2671">
 
 
  
