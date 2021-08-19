@@ -1,4 +1,4 @@
-### Hi there! Iam SanjayAravinth:) 👋
+### Hi there, Iam SanjayAravinth! 👋
 
 
 - 🔭 I’m currently studying on Velammal College of Engineering and Technology(ECE) Final Year.
@@ -16,7 +16,7 @@
 
 
 
-<img src="http://github-readme-stats.vercel.app/api?username=sanjayaravinth721&&show_icons=true&title_color=00ffff&icon_color=ff0000f&text_color=0000ff&bg_color=000080">
+<img src="http://github-readme-stats.vercel.app/api?username=sanjayaravinth721&&show_icons=true&title_color=0000ff&icon_color=ff0000f&text_color=008000&bg_color=000000">
 
 
  
