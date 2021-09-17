@@ -4,7 +4,7 @@
 - 🔭 I’m a student of **Velammal College of Engineering and Technology(ECE) Final Year.**
 
 - 🌱 I’m currently learning **Artificial intelligence.**
-- 
+
 - 💬 Ask me about any **Technical Stuffs.**
 
 - 📫You can reach me in LinkedIn - **https://www.linkedin.com/in/sanjay-aravinth-266.6411b5**
