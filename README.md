@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm SanjayAravinth!:)</h1>
+<h1 align="center">Hi there👋, I'm SanjayAravinth!</h1>
 
 
 - 🔭 I’m a student of **Velammal College of Engineering and Technology(ECE) Final Year.**
