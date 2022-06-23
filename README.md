@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student of **Velammal College of Engineering and Technology(ECE) Final Year.**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Selenium java.**
 
 - 💬 Ask me about any **Technical Stuffs.**
 
