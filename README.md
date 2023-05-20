@@ -5,7 +5,7 @@
 
 - 📫You can reach me in LinkedIn - **https://www.linkedin.com/in/sanjay-aravinth-266.6411b5**
 
-- 📄 Know about my experiences - [[https://drive.google.com/file/d/191_Tkpc8RNAI8_vnIDiMBqUb-e9rZg_u/view?usp=sharing]
+- 📄 Know about my experiences - [https://drive.google.com/file/d/191_Tkpc8RNAI8_vnIDiMBqUb-e9rZg_u/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
