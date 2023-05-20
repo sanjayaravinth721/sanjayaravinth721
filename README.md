@@ -1,9 +1,23 @@
 <h1 align="center">Hi there👋, I'm SanjayAravinth!</h1>
 
 
-- 🔭 I’m a student of **Velammal College of Engineering and Technology(ECE) Final Year.**
+👋 Hi, I'm Sanjayaravinth R.M!
 
-- 📫You can reach me in LinkedIn - **https://www.linkedin.com/in/sanjay-aravinth-266.6411b5**
+👨‍💻 Full-Stack Developer
+
+🔧 Passionate about building robust and user-friendly web applications, I have experience working as a full-stack developer. I specialize in developing end-to-end solutions using a variety of technologies.
+
+🚀 With a strong foundation in both frontend and backend development, I have successfully completed projects that showcase my expertise in HTML, CSS, JavaScript, Node.js, Ember.js, React, Java, and SQL.
+
+💡 I have successfully developed user-friendly web applications, focusing on delivering seamless user experiences, optimizing performance, and ensuring secure data management.
+
+🎓 I hold a Bachelors of Engineering in Electronics and Communication Engineering from Velammal College of Engineering and Technology. 
+
+🌟 I am passionate about continuous learning, staying up-to-date with the latest industry trends and technologies. I enjoy collaborating with cross-functional teams, solving problems, and turning ideas into reality.
+
+📫 You can reach me at sanjayaravinth26@gmail.com or connect with me on https://www.linkedin.com/in/sanjay-aravinth-2666411b5/. I'm always open to interesting projects and opportunities.
+
+Let's connect and collaborate on exciting projects together!
 
 - 📄 Know about my experiences - [[https://drive.google.com/file/d/191_Tkpc8RNAI8_vnIDiMBqUb-e9rZg_u/view?usp=sharing](https://drive.google.com/file/d/175mu5XyG1x4RFAe8WByrfdGHSbX5_7Ru/view?usp=drivesdk)]
 
