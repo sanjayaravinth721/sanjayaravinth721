@@ -1,6 +1,3 @@
-<h1 align="center">Hi there👋, I'm SanjayAravinth!</h1>
-
-
 👋 Hi, I'm Sanjayaravinth R.M!
 
 👨‍💻 Full-Stack Developer
