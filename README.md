@@ -12,7 +12,7 @@
 
 🌟 I am passionate about continuous learning, staying up-to-date with the latest industry trends and technologies. I enjoy collaborating with cross-functional teams, solving problems, and turning ideas into reality.
 
-📫 You can reach me at sanjayaravinth26@gmail.com or connect with me on https://www.linkedin.com/in/sanjay-aravinth-2666411b5/. I'm always open to interesting projects and opportunities.
+📫 You can reach me at sanjayaravinth26@gmail.com or connect with me on [https://www.linkedin.com/in/sanjay-aravinth-2666411b5/](https://www.linkedin.com/in/sanjayaravinth12/). I'm always open to interesting projects and opportunities.
 
 Let's connect and collaborate on exciting projects together!
 
